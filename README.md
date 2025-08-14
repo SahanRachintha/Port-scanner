@@ -20,8 +20,3 @@ This **Simple Port Scanner** is a Python-based tool designed to scan open TCP po
 ## Requirements
 - Python 3.x
 - No external libraries required (uses built-in `socket` module)
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/port-scanner.git
